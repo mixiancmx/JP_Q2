@@ -1,0 +1,684 @@
+{
+  "2009-06-30": {
+    "start_date": "2009-04-01",
+    "end_date": "2009-06-30",
+    "news": [
+      {
+        "date": "2009-06-15",
+        "headline": "Apple Sees Strong Demand for iPhone 3GS",
+        "summary": "During Q2 2009, reports highlighted robust consumer interest in the iPhone 3GS, with media outlets noting its enhanced performance and innovative features."
+      }
+    ]
+  },
+  "2009-09-30": {
+    "start_date": "2009-07-01",
+    "end_date": "2009-09-30",
+    "news": [
+      {
+        "date": "2009-08-15",
+        "headline": "Apple Releases Major iOS Update",
+        "summary": "In Q3 2009, Apple rolled out a significant update to its iOS platform, introducing new functionalities and refinements that improved the overall user experience."
+      }
+    ]
+  },
+  "2009-12-31": {
+    "start_date": "2009-10-01",
+    "end_date": "2009-12-31",
+    "news": [
+      {
+        "date": "2009-11-20",
+        "headline": "Apple Celebrates a Record Holiday Season",
+        "summary": "In Q4 2009, Apple enjoyed a bustling holiday season marked by heightened consumer engagement and extensive media coverage of its digital services and retail presence."
+      }
+    ]
+  },
+  "2010-03-31": {
+    "start_date": "2010-01-01",
+    "end_date": "2010-03-31",
+    "news": [
+      {
+        "date": "2010-03-15",
+        "headline": "Apple Unveils the Groundbreaking iPad",
+        "summary": "In Q1 2010, Apple introduced its revolutionary tablet, the iPad, marking its entry into a new category of mobile computing and capturing widespread public interest."
+      }
+    ]
+  },
+  "2010-06-30": {
+    "start_date": "2010-04-01",
+    "end_date": "2010-06-30",
+    "news": [
+      {
+        "date": "2010-06-10",
+        "headline": "Apple Unveils the iPhone 4",
+        "summary": "During Q2 2010, Apple introduced the iPhone 4 with a completely new design and advanced features, generating significant buzz in technology circles."
+      }
+    ]
+  },
+  "2010-09-30": {
+    "start_date": "2010-07-01",
+    "end_date": "2010-09-30",
+    "news": [
+      {
+        "date": "2010-08-20",
+        "headline": "Apple Expands Its Global Retail Presence",
+        "summary": "In Q3 2010, Apple announced plans to broaden its retail footprint worldwide, aiming to provide enhanced customer experiences and greater accessibility."
+      }
+    ]
+  },
+  "2010-12-31": {
+    "start_date": "2010-10-01",
+    "end_date": "2010-12-31",
+    "news": [
+      {
+        "date": "2010-11-30",
+        "headline": "Apple Celebrates a Vibrant Holiday Season",
+        "summary": "In Q4 2010, the holiday period witnessed strong consumer activity around Apple products, with numerous promotional events and media coverage capturing public attention."
+      }
+    ]
+  },
+  "2011-03-31": {
+    "start_date": "2011-01-01",
+    "end_date": "2011-03-31",
+    "news": [
+      {
+        "date": "2011-03-02",
+        "headline": "Apple Unveils the iPad 2",
+        "summary": "Early in Q1 2011, Apple introduced the iPad 2 featuring a thinner design and improved performance, a development that captivated both consumers and tech enthusiasts."
+      }
+    ]
+  },
+  "2011-06-30": {
+    "start_date": "2011-04-01",
+    "end_date": "2011-06-30",
+    "news": [
+      {
+        "date": "2011-06-10",
+        "headline": "Apple Introduces iCloud Services",
+        "summary": "During Q2 2011, Apple launched its iCloud service, providing users with new ways to synchronize and back up data across devices, which quickly became a focal point in tech news."
+      }
+    ]
+  },
+  "2011-09-30": {
+    "start_date": "2011-07-01",
+    "end_date": "2011-09-30",
+    "news": [
+      {
+        "date": "2011-09-15",
+        "headline": "Growing Anticipation for the iPhone 4S",
+        "summary": "In Q3 2011, rising rumors and leaks sparked widespread anticipation for the upcoming iPhone 4S, with tech media extensively discussing potential new features."
+      }
+    ]
+  },
+  "2011-12-31": {
+    "start_date": "2011-10-01",
+    "end_date": "2011-12-31",
+    "news": [
+      {
+        "date": "2011-10-04",
+        "headline": "Apple Launches the iPhone 4S",
+        "summary": "In Q4 2011, Apple officially unveiled the iPhone 4S, showcasing a host of enhancements and a refined design that captured the attention of consumers and media alike."
+      }
+    ]
+  },
+  "2012-03-31": {
+    "start_date": "2012-01-01",
+    "end_date": "2012-03-31",
+    "news": [
+      {
+        "date": "2012-03-15",
+        "headline": "Apple Focuses on Software Enhancements",
+        "summary": "In Q1 2012, Apple concentrated on refining its software offerings, rolling out updates that enhanced user interfaces and overall device performance."
+      }
+    ]
+  },
+  "2012-06-30": {
+    "start_date": "2012-04-01",
+    "end_date": "2012-06-30",
+    "news": [
+      {
+        "date": "2012-06-06",
+        "headline": "Apple Unveils iOS 6 at WWDC",
+        "summary": "During Q2 2012, at its Worldwide Developers Conference, Apple introduced iOS 6, presenting new functionalities and design improvements that received widespread media attention."
+      }
+    ]
+  },
+  "2012-09-30": {
+    "start_date": "2012-07-01",
+    "end_date": "2012-09-30",
+    "news": [
+      {
+        "date": "2012-09-12",
+        "headline": "Apple Unveils the iPhone 5",
+        "summary": "In Q3 2012, Apple unveiled the iPhone 5 featuring a taller screen and a refined design, an announcement that generated extensive enthusiasm and media discussion."
+      }
+    ]
+  },
+  "2012-12-31": {
+    "start_date": "2012-10-01",
+    "end_date": "2012-12-31",
+    "news": [
+      {
+        "date": "2012-11-25",
+        "headline": "Apple Celebrates a Successful Holiday Season",
+        "summary": "In Q4 2012, the holiday season saw dynamic consumer engagement with Apple products, accompanied by widespread media coverage of its innovative offerings."
+      }
+    ]
+  },
+  "2013-03-31": {
+    "start_date": "2013-01-01",
+    "end_date": "2013-03-31",
+    "news": [
+      {
+        "date": "2013-03-20",
+        "headline": "Apple Reports Continued Growth in Digital Content",
+        "summary": "In Q1 2013, media reports emphasized sustained interest in Apple's digital content platforms, with the company's expanding ecosystem drawing significant attention."
+      }
+    ]
+  },
+  "2013-06-30": {
+    "start_date": "2013-04-01",
+    "end_date": "2013-06-30",
+    "news": [
+      {
+        "date": "2013-06-10",
+        "headline": "Apple Unveils iOS 7 with a Major Redesign",
+        "summary": "During Q2 2013, Apple introduced iOS 7, a major redesign of its mobile operating system that featured innovative interface elements and sparked extensive discussions in tech circles."
+      }
+    ]
+  },
+  "2013-09-30": {
+    "start_date": "2013-07-01",
+    "end_date": "2013-09-30",
+    "news": [
+      {
+        "date": "2013-09-15",
+        "headline": "Rapid Adoption of iOS 7 Evident Among Users",
+        "summary": "In Q3 2013, reports highlighted the rapid adoption of iOS 7 by consumers, with media outlets noting the transformative impact of its redesigned interface."
+      }
+    ]
+  },
+  "2013-12-31": {
+    "start_date": "2013-10-01",
+    "end_date": "2013-12-31",
+    "news": [
+      {
+        "date": "2013-11-28",
+        "headline": "Apple Celebrates a Record-Breaking Holiday Season",
+        "summary": "In Q4 2013, the holiday season was marked by exceptional consumer enthusiasm for Apple products, with extensive media coverage and high public engagement."
+      }
+    ]
+  },
+  "2014-03-31": {
+    "start_date": "2014-01-01",
+    "end_date": "2014-03-31",
+    "news": [
+      {
+        "date": "2014-03-10",
+        "headline": "Apple Prepares for Next-Generation Innovations",
+        "summary": "In Q1 2014, speculations and rumors about upcoming product innovations, including a new generation of iPhones, dominated tech discussions and media reports."
+      }
+    ]
+  },
+  "2014-06-30": {
+    "start_date": "2014-04-01",
+    "end_date": "2014-06-30",
+    "news": [
+      {
+        "date": "2014-06-02",
+        "headline": "Apple Unveils iOS 8 at WWDC",
+        "summary": "During Q2 2014, at its Worldwide Developers Conference, Apple introduced iOS 8 with a host of new features and enhancements that captured widespread media attention."
+      }
+    ]
+  },
+  "2014-09-30": {
+    "start_date": "2014-07-01",
+    "end_date": "2014-09-30",
+    "news": [
+      {
+        "date": "2014-09-09",
+        "headline": "Apple Unveils the iPhone 6 and 6 Plus",
+        "summary": "In Q3 2014, Apple introduced the iPhone 6 and 6 Plus, featuring larger displays and a redesigned form factor that generated significant buzz across the technology sector."
+      }
+    ]
+  },
+  "2014-12-31": {
+    "start_date": "2014-10-01",
+    "end_date": "2014-12-31",
+    "news": [
+      {
+        "date": "2014-11-25",
+        "headline": "Apple Celebrates a Dynamic Holiday Season",
+        "summary": "In Q4 2014, the holiday season saw high consumer enthusiasm and widespread media focus on Apple's latest products and innovative services."
+      }
+    ]
+  },
+  "2015-03-31": {
+    "start_date": "2015-01-01",
+    "end_date": "2015-03-31",
+    "news": [
+      {
+        "date": "2015-03-15",
+        "headline": "Speculations Grow Around Apple's Wearable Technology",
+        "summary": "In Q1 2015, early leaks and industry discussions began hinting at Apple's potential entry into the wearable technology market, generating considerable public interest."
+      }
+    ]
+  },
+  "2015-06-30": {
+    "start_date": "2015-04-01",
+    "end_date": "2015-06-30",
+    "news": [
+      {
+        "date": "2015-06-10",
+        "headline": "Apple Advances Its Wearable Technology Initiatives",
+        "summary": "During Q2 2015, reports confirmed ongoing developments in Apple's wearable technology projects, with the company's innovative approach drawing significant media attention."
+      }
+    ]
+  },
+  "2015-09-30": {
+    "start_date": "2015-07-01",
+    "end_date": "2015-09-30",
+    "news": [
+      {
+        "date": "2015-09-09",
+        "headline": "Apple Launches iPhone 6S and 6S Plus",
+        "summary": "Apple unveiled its new iPhone 6S and 6S Plus models featuring enhanced processing power and advanced camera technology. The launch attracted significant attention in the tech community."
+      }
+    ]
+  },
+  "2015-12-31": {
+    "start_date": "2015-10-01",
+    "end_date": "2015-12-31",
+    "news": [
+      {
+        "date": "2015-10-29",
+        "headline": "Apple Reports Robust Q4 2015 Earnings",
+        "summary": "Apple reported strong performance in its Q4 2015 earnings with robust revenue growth and effective cost management, drawing positive reactions from the market."
+      }
+    ]
+  },
+  "2016-03-31": {
+    "start_date": "2016-01-01",
+    "end_date": "2016-03-31",
+    "news": [
+      {
+        "date": "2016-03-21",
+        "headline": "Speculation Rises Ahead of iPhone SE Launch",
+        "summary": "Market rumors about an upcoming, smaller iPhone model stirred considerable interest among consumers and tech analysts, suggesting a potential shift in product strategy."
+      }
+    ]
+  },
+  "2016-06-30": {
+    "start_date": "2016-04-01",
+    "end_date": "2016-06-30",
+    "news": [
+      {
+        "date": "2016-06-15",
+        "headline": "Apple’s Q2 2016 Performance Impresses Analysts",
+        "summary": "Apple’s second-quarter performance surpassed expectations with significant gains across various product segments, and positive reviews boosted overall sentiment."
+      }
+    ]
+  },
+  "2016-09-30": {
+    "start_date": "2016-07-01",
+    "end_date": "2016-09-30",
+    "news": [
+      {
+        "date": "2016-09-07",
+        "headline": "Anticipation Builds for the Launch of iPhone 7",
+        "summary": "In the lead-up to the iPhone 7 release, growing excitement and detailed previews of innovative features captured the attention of both consumers and industry experts."
+      }
+    ]
+  },
+  "2016-12-31": {
+    "start_date": "2016-10-01",
+    "end_date": "2016-12-31",
+    "news": [
+      {
+        "date": "2016-11-25",
+        "headline": "Apple Q4 2016 Earnings Demonstrate Resilience",
+        "summary": "The Q4 2016 earnings report showcased solid performance with effective cost control and steady growth, receiving favorable reviews from financial commentators."
+      }
+    ]
+  },
+  "2017-03-31": {
+    "start_date": "2017-01-01",
+    "end_date": "2017-03-31",
+    "news": [
+      {
+        "date": "2017-02-15",
+        "headline": "Apple Faces Patent Litigation Challenges",
+        "summary": "In early 2017, Apple encountered several patent litigation cases that attracted media attention and highlighted ongoing legal challenges in the technology sector."
+      }
+    ]
+  },
+  "2017-06-30": {
+    "start_date": "2017-04-01",
+    "end_date": "2017-06-30",
+    "news": [
+      {
+        "date": "2017-05-20",
+        "headline": "Expansion in Services and New Initiatives Announced",
+        "summary": "Apple announced a strategic expansion of its services portfolio along with several new initiatives, receiving positive reactions from industry analysts."
+      }
+    ]
+  },
+  "2017-09-30": {
+    "start_date": "2017-07-01",
+    "end_date": "2017-09-30",
+    "news": [
+      {
+        "date": "2017-09-12",
+        "headline": "Apple Unveils Revolutionary iPhone X",
+        "summary": "The launch of the iPhone X, featuring an edge-to-edge display and advanced facial recognition, marked a pivotal moment in design innovation and captured widespread consumer interest."
+      }
+    ]
+  },
+  "2017-12-31": {
+    "start_date": "2017-10-01",
+    "end_date": "2017-12-31",
+    "news": [
+      {
+        "date": "2017-11-30",
+        "headline": "Apple Q4 2017 Earnings Beat Market Expectations",
+        "summary": "Apple’s Q4 2017 earnings report exceeded market expectations, showcasing impressive growth and effective cost management, and reinforcing its reputation for innovation."
+      }
+    ]
+  },
+  "2018-03-31": {
+    "start_date": "2018-01-01",
+    "end_date": "2018-03-31",
+    "news": [
+      {
+        "date": "2018-02-12",
+        "headline": "Q1 2018 Earnings Highlight Growth in Wearables and Services",
+        "summary": "Apple’s Q1 2018 results revealed notable performance improvements driven by growth in its wearables and services segments, with increased consumer engagement."
+      }
+    ]
+  },
+  "2018-06-30": {
+    "start_date": "2018-04-01",
+    "end_date": "2018-06-30",
+    "news": [
+      {
+        "date": "2018-05-05",
+        "headline": "Apple Addresses Batterygate Controversy",
+        "summary": "Amid growing public scrutiny over battery performance issues, Apple took measures to address consumer concerns, aiming to restore trust and improve product reliability."
+      }
+    ]
+  },
+  "2018-09-30": {
+    "start_date": "2018-07-01",
+    "end_date": "2018-09-30",
+    "news": [
+      {
+        "date": "2018-08-20",
+        "headline": "Market Buzz Intensifies Ahead of iPhone XR Announcement",
+        "summary": "Rumors surrounding the upcoming iPhone XR generated significant media buzz and consumer excitement, with detailed previews fueling anticipation."
+      }
+    ]
+  },
+  "2018-12-31": {
+    "start_date": "2018-10-01",
+    "end_date": "2018-12-31",
+    "news": [
+      {
+        "date": "2018-11-28",
+        "headline": "Apple Q4 2018 Delivers Robust Profit Margins",
+        "summary": "In Q4 2018, Apple reported strong financial results marked by impressive profit margins and steady revenue, with the report widely covered in the media."
+      }
+    ]
+  },
+  "2019-03-31": {
+    "start_date": "2019-01-01",
+    "end_date": "2019-03-31",
+    "news": [
+      {
+        "date": "2019-02-10",
+        "headline": "US-China Trade Tensions Affect Apple’s Supply Chain",
+        "summary": "Escalating trade disputes between the US and China during early 2019 led to noticeable supply chain disruptions for Apple, drawing extensive media coverage on global trade issues."
+      }
+    ]
+  },
+  "2019-06-30": {
+    "start_date": "2019-04-01",
+    "end_date": "2019-06-30",
+    "news": [
+      {
+        "date": "2019-05-15",
+        "headline": "Growth in Services Revenue Amid Regulatory Scrutiny",
+        "summary": "During Q2 2019, Apple experienced noteworthy growth in its services segment despite heightened regulatory attention, a development closely monitored by industry observers."
+      }
+    ]
+  },
+  "2019-09-30": {
+    "start_date": "2019-07-01",
+    "end_date": "2019-09-30",
+    "news": [
+      {
+        "date": "2019-09-10",
+        "headline": "Apple Unveils iPhone 11 with High Pre-Order Demand",
+        "summary": "The announcement of the iPhone 11 generated record pre-order volumes and widespread media attention, with the new model celebrated for its innovative design and features."
+      }
+    ]
+  },
+  "2019-12-31": {
+    "start_date": "2019-10-01",
+    "end_date": "2019-12-31",
+    "news": [
+      {
+        "date": "2019-12-20",
+        "headline": "Apple Q4 2019 Earnings Reflect Steady Growth",
+        "summary": "Apple’s Q4 2019 report demonstrated consistent performance and effective operational management during a period marked by global economic uncertainty, earning favorable media coverage."
+      }
+    ]
+  },
+  "2020-03-31": {
+    "start_date": "2020-01-01",
+    "end_date": "2020-03-31",
+    "news": [
+      {
+        "date": "2020-03-18",
+        "headline": "COVID-19 Pandemic Begins Affecting Global Markets",
+        "summary": "The rapid spread of COVID-19 in early 2020 led to significant disruptions in global markets and challenges in supply chain operations, prompting companies to reassess their strategies."
+      }
+    ]
+  },
+  "2020-06-30": {
+    "start_date": "2020-04-01",
+    "end_date": "2020-06-30",
+    "news": [
+      {
+        "date": "2020-05-10",
+        "headline": "Surge in Digital Services Offsets Pandemic Challenges",
+        "summary": "As the COVID-19 pandemic accelerated the shift to remote work and digital engagement, Apple experienced a notable surge in digital services, a trend widely reported in the media."
+      }
+    ]
+  },
+  "2020-09-30": {
+    "start_date": "2020-07-01",
+    "end_date": "2020-09-30",
+    "news": [
+      {
+        "date": "2020-08-25",
+        "headline": "Apple Q3 2020 Earnings Showcase Resilience",
+        "summary": "Apple’s Q3 2020 report highlighted strong performance amid challenging conditions, with increased demand for digital solutions and remote connectivity drawing extensive attention."
+      }
+    ]
+  },
+  "2020-12-31": {
+    "start_date": "2020-10-01",
+    "end_date": "2020-12-31",
+    "news": [
+      {
+        "date": "2020-11-13",
+        "headline": "Apple Unveils iPhone 12 Amid Strong Q4 Performance",
+        "summary": "The launch of the iPhone 12 series, along with the strong Q4 2020 performance, captured significant media attention as consumers embraced the innovative design and features."
+      }
+    ]
+  },
+  "2021-03-31": {
+    "start_date": "2021-01-01",
+    "end_date": "2021-03-31",
+    "news": [
+      {
+        "date": "2021-02-05",
+        "headline": "Apple Q1 2021 Earnings Highlight Growth in Wearables and Services",
+        "summary": "Apple’s Q1 2021 results showcased solid performance driven by its wearables and services segments, with the period marked by increased market activity and consumer engagement."
+      }
+    ]
+  },
+  "2021-06-30": {
+    "start_date": "2021-04-01",
+    "end_date": "2021-06-30",
+    "news": [
+      {
+        "date": "2021-06-15",
+        "headline": "Apple Surpasses $2 Trillion Market Cap",
+        "summary": "In Q2 2021, Apple reached a historic milestone by surpassing a $2 trillion market capitalization, a development widely celebrated in the media as a testament to its innovation and leadership."
+      }
+    ]
+  },
+  "2021-09-30": {
+    "start_date": "2021-07-01",
+    "end_date": "2021-09-30",
+    "news": [
+      {
+        "date": "2021-09-14",
+        "headline": "Apple Unveils iPhone 13 with Breakthrough Features",
+        "summary": "The launch of the iPhone 13 series introduced several groundbreaking features and technological advancements, generating extensive media coverage and enthusiastic consumer responses."
+      }
+    ]
+  },
+  "2021-12-31": {
+    "start_date": "2021-10-01",
+    "end_date": "2021-12-31",
+    "news": [
+      {
+        "date": "2021-12-08",
+        "headline": "Apple Q4 2021 Earnings Reflect Continued Strength Amid Supply Chain Disruptions",
+        "summary": "Despite ongoing global supply chain challenges, Apple’s Q4 2021 report demonstrated solid performance and adaptability, with the quarterly results receiving positive media attention."
+      }
+    ]
+  },
+  "2022-03-31": {
+    "start_date": "2022-01-01",
+    "end_date": "2022-03-31",
+    "news": [
+      {
+        "date": "2022-03-05",
+        "headline": "Apple Q1 2022 Earnings Focus on Revenue Diversification",
+        "summary": "In Q1 2022, Apple highlighted significant progress in diversifying its revenue sources, driven by increased activity in its services and wearables sectors, a development noted widely in the media."
+      }
+    ]
+  },
+  "2022-06-30": {
+    "start_date": "2022-04-01",
+    "end_date": "2022-06-30",
+    "news": [
+      {
+        "date": "2022-06-10",
+        "headline": "Apple Navigates Inflation and Supply Chain Headwinds",
+        "summary": "During Q2 2022, Apple managed challenges related to global inflation and ongoing supply chain disruptions, with strategic adjustments drawing attention from industry observers."
+      }
+    ]
+  },
+  "2022-09-30": {
+    "start_date": "2022-07-01",
+    "end_date": "2022-09-30",
+    "news": [
+      {
+        "date": "2022-09-05",
+        "headline": "Apple Expands Its Service Ecosystem with New Initiatives",
+        "summary": "In Q3 2022, Apple introduced several new initiatives aimed at expanding its services ecosystem, a move that generated extensive media coverage and industry discussion."
+      }
+    ]
+  },
+  "2022-12-31": {
+    "start_date": "2022-10-01",
+    "end_date": "2022-12-31",
+    "news": [
+      {
+        "date": "2022-12-12",
+        "headline": "Apple Q4 2022 Results Exceed Expectations with Robust Growth",
+        "summary": "Apple’s Q4 2022 report showcased impressive financial performance with steady growth and operational excellence, attracting significant media attention."
+      }
+    ]
+  },
+  "2023-03-31": {
+    "start_date": "2023-01-01",
+    "end_date": "2023-03-31",
+    "news": [
+      {
+        "date": "2023-03-08",
+        "headline": "Apple Q1 2023 Earnings Signal Strategic Shift",
+        "summary": "Apple’s Q1 2023 performance highlighted a strategic shift toward emerging technologies and new market segments, with the quarterly report noted for its innovative product strategy."
+      }
+    ]
+  },
+  "2023-06-30": {
+    "start_date": "2023-04-01",
+    "end_date": "2023-06-30",
+    "news": [
+      {
+        "date": "2023-06-12",
+        "headline": "Innovative Product Launches Drive Q2 2023 Growth",
+        "summary": "During Q2 2023, Apple introduced several innovative products and enhancements to its service offerings, capturing widespread media coverage and strong consumer interest."
+      }
+    ]
+  },
+  "2023-09-30": {
+    "start_date": "2023-07-01",
+    "end_date": "2023-09-30",
+    "news": [
+      {
+        "date": "2023-09-07",
+        "headline": "Apple Q3 2023 Earnings Amid Supply Chain and Legal Challenges",
+        "summary": "In Q3 2023, Apple navigated challenges including ongoing supply chain issues and legal disputes, with its quarterly report analyzed extensively in the media."
+      }
+    ]
+  },
+  "2023-12-31": {
+    "start_date": "2023-10-01",
+    "end_date": "2023-12-31",
+    "news": [
+      {
+        "date": "2023-12-05",
+        "headline": "Apple Q4 2023 Forecasts Highlight Caution Amid Market Uncertainty",
+        "summary": "Looking ahead to Q4 2023, forecasts from Apple reflected a cautious approach in response to market uncertainties, with industry experts providing careful analysis."
+      }
+    ]
+  },
+  "2024-03-31": {
+    "start_date": "2024-01-01",
+    "end_date": "2024-03-31",
+    "news": [
+      {
+        "date": "2024-03-10",
+        "headline": "Analysts Predict a Strong Start for Apple in Q1 2024",
+        "summary": "Market analysts forecast a promising start for Apple in Q1 2024, fueled by anticipated product releases and innovative technology developments that have generated significant media buzz."
+      }
+    ]
+  },
+  "2024-06-30": {
+    "start_date": "2024-04-01",
+    "end_date": "2024-06-30",
+    "news": [
+      {
+        "date": "2024-06-05",
+        "headline": "Apple Prepares for Mid-Year Earnings Amid Product Innovation",
+        "summary": "As mid-year earnings approach in Q2 2024, Apple is set to announce new products and strategic initiatives, with early indications sparking extensive discussions among industry insiders."
+      }
+    ]
+  },
+  "2024-09-30": {
+    "start_date": "2024-07-01",
+    "end_date": "2024-09-30",
+    "news": [
+      {
+        "date": "2024-09-12",
+        "headline": "Analysts Expect Continued Growth for Apple in Q3 2024",
+        "summary": "Looking toward Q3 2024, analysts remain optimistic about Apple’s prospects as discussions of new product launches and strategic developments dominate recent media coverage."
+      }
+    ]
+  }
+}

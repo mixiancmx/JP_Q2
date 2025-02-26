@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # Load and sort data
-file_path = "/Users/mixian/Downloads/Q2/microsoft_quarterly_balance_sheet.csv"
+file_path = "./data/amazon_quarterly_balance_sheet.csv"
 data = pd.read_csv(file_path)
 data.sort_values(by='fiscalDateEnding', inplace=True)
 
@@ -38,6 +38,10 @@ for column in columns_to_use:
 test_data['totalAssets_pred'] = predictions['totalAssets']
 test_data['totalLiabilities_pred'] = predictions['totalLiabilities']
 test_data['totalShareholderEquity_pred'] = predictions['totalShareholderEquity']
+
+print("assets:",test_data['totalAssets_pred'])
+print("liability:",test_data['totalLiabilities_pred'])
+print("equity:",test_data['totalShareholderEquity_pred'])
 
 # Adjust predictions to match the accounting equation
 def adjust_accounting_equation(test_data):

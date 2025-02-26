@@ -26,7 +26,7 @@ input_channels = 3
 epochs = 50
 
 # Load and sort data
-file_path = "/Users/mixian/Downloads/Q2/google_quarterly_balance_sheet.csv"
+file_path = "./data/google_quarterly_balance_sheet.csv"
 data = pd.read_csv(file_path)
 data.sort_values(by='fiscalDateEnding', inplace=True)
 
@@ -35,6 +35,8 @@ columns_to_use = ['totalShareholderEquity', 'totalAssets', 'totalLiabilities']
 data[columns_to_use] = data[columns_to_use].apply(pd.to_numeric, errors='coerce')
 data = data.dropna(subset=columns_to_use)
 data_values = data[columns_to_use].values
+history_news = news[:history_size]
+test_news = news[history_size:]
 
 # Generate sequential data
 def generate_data(data, seq_len, pred_len):

@@ -1,0 +1,410 @@
+{
+    "2015-09-30": {
+      "start_date": "2015-07-01",
+      "end_date": "2015-09-30",
+      "news": [
+        {
+          "date": "2015-08-20",
+          "headline": "Google Strengthens Android Ecosystem",
+          "summary": "During Q3 2015, Google announced several updates to its Android operating system, including interface refinements and performance improvements, sparking extensive discussion among tech enthusiasts."
+        }
+      ]
+    },
+    "2015-12-31": {
+      "start_date": "2015-10-01",
+      "end_date": "2015-12-31",
+      "news": [
+        {
+          "date": "2015-11-10",
+          "headline": "Google’s Corporate Restructuring Underway",
+          "summary": "In Q4 2015, Google initiated a major corporate restructuring that paved the way for the creation of Alphabet Inc., a move that captured widespread media attention and signaled a new era for the company."
+        }
+      ]
+    },
+    "2016-03-31": {
+      "start_date": "2016-01-01",
+      "end_date": "2016-03-31",
+      "news": [
+        {
+          "date": "2016-03-05",
+          "headline": "Google Advances Artificial Intelligence Research",
+          "summary": "During Q1 2016, Google showcased new AI projects and research initiatives that underscored its commitment to innovation in machine learning and data analytics."
+        }
+      ]
+    },
+    "2016-06-30": {
+      "start_date": "2016-04-01",
+      "end_date": "2016-06-30",
+      "news": [
+        {
+          "date": "2016-05-18",
+          "headline": "Google Expands Its Cloud Services Portfolio",
+          "summary": "In Q2 2016, Google introduced several new features and strategic partnerships in its cloud division, drawing significant attention across the technology sector."
+        }
+      ]
+    },
+    "2016-09-30": {
+      "start_date": "2016-07-01",
+      "end_date": "2016-09-30",
+      "news": [
+        {
+          "date": "2016-08-25",
+          "headline": "Google Innovates in Search Technology",
+          "summary": "During Q3 2016, Google rolled out multiple enhancements to its search algorithms and user interface, reinforcing its leadership in online search and related services."
+        }
+      ]
+    },
+    "2016-12-31": {
+      "start_date": "2016-10-01",
+      "end_date": "2016-12-31",
+      "news": [
+        {
+          "date": "2016-11-04",
+          "headline": "Google Launches Its First Pixel Phones",
+          "summary": "In Q4 2016, Google made a significant foray into the smartphone market with the launch of the Pixel and Pixel XL, an event that received extensive media coverage for its innovative design and features."
+        }
+      ]
+    },
+    "2017-03-31": {
+      "start_date": "2017-01-01",
+      "end_date": "2017-03-31",
+      "news": [
+        {
+          "date": "2017-03-12",
+          "headline": "Google Accelerates Investment in Machine Learning",
+          "summary": "During Q1 2017, Google announced new research initiatives and strategic investments focused on machine learning, further cementing its role as an innovation leader in AI."
+        }
+      ]
+    },
+    "2017-06-30": {
+      "start_date": "2017-04-01",
+      "end_date": "2017-06-30",
+      "news": [
+        {
+          "date": "2017-06-07",
+          "headline": "Google DeepMind Achieves Breakthrough in AI Research",
+          "summary": "In Q2 2017, Google's DeepMind team announced a major breakthrough in artificial intelligence, demonstrating significant progress in deep learning and algorithmic efficiency."
+        }
+      ]
+    },
+    "2017-09-30": {
+      "start_date": "2017-07-01",
+      "end_date": "2017-09-30",
+      "news": [
+        {
+          "date": "2017-08-20",
+          "headline": "Google Unveils Major Android Updates",
+          "summary": "During Q3 2017, Google released a series of updates to the Android platform that introduced new functionalities and enhancements, drawing widespread attention from the tech community."
+        }
+      ]
+    },
+    "2017-12-31": {
+      "start_date": "2017-10-01",
+      "end_date": "2017-12-31",
+      "news": [
+        {
+          "date": "2017-11-15",
+          "headline": "Google Launches the Pixel 2 Series",
+          "summary": "In Q4 2017, Google launched the Pixel 2 and Pixel 2 XL, showcasing refined hardware and software integration that was extensively covered by technology media."
+        }
+      ]
+    },
+    "2018-03-31": {
+      "start_date": "2018-01-01",
+      "end_date": "2018-03-31",
+      "news": [
+        {
+          "date": "2018-03-10",
+          "headline": "Google Enhances Cloud AI and Machine Learning Tools",
+          "summary": "During Q1 2018, Google introduced several updates to its cloud-based AI tools, emphasizing improvements in machine learning capabilities and overall platform performance."
+        }
+      ]
+    },
+    "2018-06-30": {
+      "start_date": "2018-04-01",
+      "end_date": "2018-06-30",
+      "news": [
+        {
+          "date": "2018-05-22",
+          "headline": "Regulators Intensify Antitrust Probes Into Google",
+          "summary": "In Q2 2018, global regulatory bodies increased scrutiny of Google's business practices, leading to widespread media coverage of antitrust investigations and related discussions."
+        }
+      ]
+    },
+    "2018-09-30": {
+      "start_date": "2018-07-01",
+      "end_date": "2018-09-30",
+      "news": [
+        {
+          "date": "2018-08-18",
+          "headline": "Google Expands Its Hardware Portfolio with New Devices",
+          "summary": "During Q3 2018, Google announced several new hardware products that broadened its ecosystem beyond software and search, generating considerable buzz in tech circles."
+        }
+      ]
+    },
+    "2018-12-31": {
+      "start_date": "2018-10-01",
+      "end_date": "2018-12-31",
+      "news": [
+        {
+          "date": "2018-11-30",
+          "headline": "Google Announces Strategic Partnerships in Cloud and AI",
+          "summary": "In Q4 2018, Google unveiled a series of strategic partnerships aimed at enhancing its cloud and AI capabilities, an announcement that was met with extensive media interest."
+        }
+      ]
+    },
+    "2019-03-31": {
+      "start_date": "2019-01-01",
+      "end_date": "2019-03-31",
+      "news": [
+        {
+          "date": "2019-03-08",
+          "headline": "Google Showcases Innovations at Google I/O 2019",
+          "summary": "During Q1 2019, Google’s annual I/O conference highlighted a range of new innovations across software, hardware, and cloud services, captivating audiences worldwide."
+        }
+      ]
+    },
+    "2019-06-30": {
+      "start_date": "2019-04-01",
+      "end_date": "2019-06-30",
+      "news": [
+        {
+          "date": "2019-05-16",
+          "headline": "Google Invests in Renewable Energy Projects",
+          "summary": "In Q2 2019, Google announced significant investments in renewable energy initiatives as part of its sustainability efforts, drawing widespread attention from environmental and tech media."
+        }
+      ]
+    },
+    "2019-09-30": {
+      "start_date": "2019-07-01",
+      "end_date": "2019-09-30",
+      "news": [
+        {
+          "date": "2019-08-27",
+          "headline": "Google Updates Its Search and Advertising Platforms",
+          "summary": "During Q3 2019, Google rolled out a series of updates to its search and advertising systems, focusing on improving user experience and platform efficiency."
+        }
+      ]
+    },
+    "2019-12-31": {
+      "start_date": "2019-10-01",
+      "end_date": "2019-12-31",
+      "news": [
+        {
+          "date": "2019-11-29",
+          "headline": "Google Implements Major Security Upgrades",
+          "summary": "In Q4 2019, Google undertook comprehensive security upgrades across its platforms, introducing advanced features aimed at enhancing user privacy and system robustness."
+        }
+      ]
+    },
+    "2020-03-31": {
+      "start_date": "2020-01-01",
+      "end_date": "2020-03-31",
+      "news": [
+        {
+          "date": "2020-03-12",
+          "headline": "Google Adjusts Remote Work Policies Amid COVID-19",
+          "summary": "In Q1 2020, as the COVID-19 pandemic began to impact global operations, Google adapted its work policies to support remote collaboration and maintain business continuity."
+        }
+      ]
+    },
+    "2020-06-30": {
+      "start_date": "2020-04-01",
+      "end_date": "2020-06-30",
+      "news": [
+        {
+          "date": "2020-05-08",
+          "headline": "Google Expands Digital Services in Response to Pandemic",
+          "summary": "During Q2 2020, Google broadened its range of digital services to meet the increased demand for online tools and remote collaboration, receiving extensive media coverage."
+        }
+      ]
+    },
+    "2020-09-30": {
+      "start_date": "2020-07-01",
+      "end_date": "2020-09-30",
+      "news": [
+        {
+          "date": "2020-08-20",
+          "headline": "Google Enhances Video Conferencing Tools",
+          "summary": "In Q3 2020, Google introduced updates to its video conferencing platforms, focusing on improved connectivity and user interface to better support remote communications."
+        }
+      ]
+    },
+    "2020-12-31": {
+      "start_date": "2020-10-01",
+      "end_date": "2020-12-31",
+      "news": [
+        {
+          "date": "2020-11-25",
+          "headline": "Google Launches New Security Features for G Suite",
+          "summary": "During Q4 2020, Google rolled out a series of new security enhancements across its G Suite applications, aimed at bolstering data protection and user privacy."
+        }
+      ]
+    },
+    "2021-03-31": {
+      "start_date": "2021-01-01",
+      "end_date": "2021-03-31",
+      "news": [
+        {
+          "date": "2021-03-03",
+          "headline": "Google Advances Quantum Computing Research",
+          "summary": "In Q1 2021, Google unveiled new developments in quantum computing research, highlighting breakthroughs that underscored its commitment to next-generation technology."
+        }
+      ]
+    },
+    "2021-06-30": {
+      "start_date": "2021-04-01",
+      "end_date": "2021-06-30",
+      "news": [
+        {
+          "date": "2021-05-14",
+          "headline": "Google Expands Cloud Infrastructure with New Data Centers",
+          "summary": "During Q2 2021, Google announced the launch of several new data centers as part of its effort to expand its global cloud infrastructure, drawing significant attention in the tech industry."
+        }
+      ]
+    },
+    "2021-09-30": {
+      "start_date": "2021-07-01",
+      "end_date": "2021-09-30",
+      "news": [
+        {
+          "date": "2021-08-19",
+          "headline": "Google Unveils Major Updates to Android and Wear OS",
+          "summary": "In Q3 2021, Google released substantial updates for Android and Wear OS, introducing new features and performance improvements that captivated both consumers and developers."
+        }
+      ]
+    },
+    "2021-12-31": {
+      "start_date": "2021-10-01",
+      "end_date": "2021-12-31",
+      "news": [
+        {
+          "date": "2021-11-30",
+          "headline": "Google Celebrates Milestones in AI and Cloud Innovations",
+          "summary": "During Q4 2021, Google marked several technological milestones in artificial intelligence and cloud services, with new projects and collaborations highlighted by industry media."
+        }
+      ]
+    },
+    "2022-03-31": {
+      "start_date": "2022-01-01",
+      "end_date": "2022-03-31",
+      "news": [
+        {
+          "date": "2022-03-12",
+          "headline": "Google Announces New Sustainability Initiatives",
+          "summary": "In Q1 2022, Google introduced a range of sustainability initiatives aimed at reducing its environmental impact and promoting renewable energy, garnering widespread media attention."
+        }
+      ]
+    },
+    "2022-06-30": {
+      "start_date": "2022-04-01",
+      "end_date": "2022-06-30",
+      "news": [
+        {
+          "date": "2022-05-20",
+          "headline": "Google Introduces Next-Generation Tensor Processing Units",
+          "summary": "During Q2 2022, Google unveiled its next-generation Tensor Processing Units designed to accelerate machine learning workloads, showcasing significant advancements in hardware technology."
+        }
+      ]
+    },
+    "2022-09-30": {
+      "start_date": "2022-07-01",
+      "end_date": "2022-09-30",
+      "news": [
+        {
+          "date": "2022-08-15",
+          "headline": "Google Expands Its Workspace Suite with Innovative Features",
+          "summary": "In Q3 2022, Google rolled out several innovative updates to its Workspace suite, introducing new features aimed at enhancing productivity and collaboration across its platform."
+        }
+      ]
+    },
+    "2022-12-31": {
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-31",
+      "news": [
+        {
+          "date": "2022-11-28",
+          "headline": "Google Implements New Advertising Technologies",
+          "summary": "During Q4 2022, Google introduced advanced technologies within its advertising platform, focusing on improving ad targeting and overall platform efficiency, as widely reported in tech media."
+        }
+      ]
+    },
+    "2023-03-31": {
+      "start_date": "2023-01-01",
+      "end_date": "2023-03-31",
+      "news": [
+        {
+          "date": "2023-03-09",
+          "headline": "Google Showcases Advances in AI at I/O 2023",
+          "summary": "In Q1 2023, at its annual developer conference, Google highlighted cutting-edge advances in artificial intelligence, featuring demonstrations and research breakthroughs that captured global attention."
+        }
+      ]
+    },
+    "2023-06-30": {
+      "start_date": "2023-04-01",
+      "end_date": "2023-06-30",
+      "news": [
+        {
+          "date": "2023-05-25",
+          "headline": "Google Expands Its Cybersecurity Framework",
+          "summary": "During Q2 2023, Google announced significant enhancements to its cybersecurity framework, focusing on advanced threat detection and improved data protection measures."
+        }
+      ]
+    },
+    "2023-09-30": {
+      "start_date": "2023-07-01",
+      "end_date": "2023-09-30",
+      "news": [
+        {
+          "date": "2023-08-17",
+          "headline": "Google Enhances Cloud Security and Data Analytics Tools",
+          "summary": "In Q3 2023, Google rolled out a series of updates to its cloud security and data analytics platforms, aiming to provide more robust and reliable solutions for enterprise users."
+        }
+      ]
+    },
+    "2023-12-31": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-12-31",
+      "news": [
+        {
+          "date": "2023-11-30",
+          "headline": "Google Announces Major Updates to Search Algorithms",
+          "summary": "During Q4 2023, Google introduced significant updates to its search algorithms, with the improvements designed to enhance search relevance and overall user experience."
+        }
+      ]
+    },
+    "2024-03-31": {
+      "start_date": "2024-01-01",
+      "end_date": "2024-03-31",
+      "news": [
+        {
+          "date": "2024-03-05",
+          "headline": "Google Unveils Its Vision for Future AI Integration",
+          "summary": "In Q1 2024, Google presented its strategic vision for future AI integration, outlining new projects and innovations aimed at further advancing its artificial intelligence capabilities."
+        }
+      ]
+    },
+    "2024-06-30": {
+      "start_date": "2024-04-01",
+      "end_date": "2024-06-30",
+      "news": [
+        {
+          "date": "2024-05-10",
+          "headline": "Google Expands Global Data Center Footprint",
+          "summary": "During Q2 2024, Google announced plans to broaden its global network of data centers, reinforcing its digital infrastructure and commitment to scalable cloud services."
+        }
+      ]
+    },
+    "2024-09-30": {
+      "start_date": "2024-07-01",
+      "end_date": "2024-09-30",
+      "news": [
+        {
+          "date": "2024-09-05",
+          "headline": "Google Previews Next-Generation Cloud Solutions at I/O",
+          "summary": "In Q3 2024, at its annual I/O conference, Google provided a preview of its next-generation cloud solutions, showcasing innovative technologies and forward-thinking strategies."
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,685 @@
+{
+    "2009-06-30": {
+      "start_date": "2009-04-01",
+      "end_date": "2009-06-30",
+      "news": [
+        {
+          "date": "2009-06-15",
+          "headline": "Amazon Expands Its Distribution Network",
+          "summary": "During Q2 2009, Amazon announced the opening of several new distribution centers in key regions to support its growing online retail operations."
+        }
+      ]
+    },
+    "2009-09-30": {
+      "start_date": "2009-07-01",
+      "end_date": "2009-09-30",
+      "news": [
+        {
+          "date": "2009-08-20",
+          "headline": "Amazon Enhances Kindle Software",
+          "summary": "In Q3 2009, Amazon introduced significant software updates to its Kindle e-reader, improving the user interface and content accessibility for readers."
+        }
+      ]
+    },
+    "2009-12-31": {
+      "start_date": "2009-10-01",
+      "end_date": "2009-12-31",
+      "news": [
+        {
+          "date": "2009-11-25",
+          "headline": "Amazon Celebrates Record Holiday Sales",
+          "summary": "During Q4 2009, Amazon experienced heightened consumer engagement during the holiday season with special promotional events and increased online activity."
+        }
+      ]
+    },
+    "2010-03-31": {
+      "start_date": "2010-01-01",
+      "end_date": "2010-03-31",
+      "news": [
+        {
+          "date": "2010-03-10",
+          "headline": "Amazon Launches a New Mobile Shopping App",
+          "summary": "In Q1 2010, Amazon unveiled a mobile shopping application designed to offer a more seamless and convenient experience for customers on the go."
+        }
+      ]
+    },
+    "2010-06-30": {
+      "start_date": "2010-04-01",
+      "end_date": "2010-06-30",
+      "news": [
+        {
+          "date": "2010-06-05",
+          "headline": "Amazon Expands AWS Service Offerings",
+          "summary": "During Q2 2010, Amazon Web Services introduced new cloud computing features and services, further enhancing its position as a leader in cloud technology."
+        }
+      ]
+    },
+    "2010-09-30": {
+      "start_date": "2010-07-01",
+      "end_date": "2010-09-30",
+      "news": [
+        {
+          "date": "2010-08-15",
+          "headline": "Amazon Enhances Prime Membership Benefits",
+          "summary": "In Q3 2010, Amazon rolled out improvements to its Prime program, including faster shipping options and exclusive content, drawing positive attention from members."
+        }
+      ]
+    },
+    "2010-12-31": {
+      "start_date": "2010-10-01",
+      "end_date": "2010-12-31",
+      "news": [
+        {
+          "date": "2010-11-30",
+          "headline": "Amazon Reports Strong Holiday Engagement",
+          "summary": "During Q4 2010, the holiday season saw a surge in user activity and online orders on Amazon’s platform, bolstered by targeted promotions and special deals."
+        }
+      ]
+    },
+    "2011-03-31": {
+      "start_date": "2011-01-01",
+      "end_date": "2011-03-31",
+      "news": [
+        {
+          "date": "2011-03-15",
+          "headline": "Amazon Explores Early Voice Shopping Technology",
+          "summary": "In Q1 2011, Amazon began testing early voice-based shopping concepts, setting the stage for future innovations in smart device interactions."
+        }
+      ]
+    },
+    "2011-06-30": {
+      "start_date": "2011-04-01",
+      "end_date": "2011-06-30",
+      "news": [
+        {
+          "date": "2011-06-10",
+          "headline": "Amazon Expands Its International Presence",
+          "summary": "During Q2 2011, Amazon launched localized websites in new markets, extending its global footprint and providing tailored shopping experiences for local customers."
+        }
+      ]
+    },
+    "2011-09-30": {
+      "start_date": "2011-07-01",
+      "end_date": "2011-09-30",
+      "news": [
+        {
+          "date": "2011-08-20",
+          "headline": "Amazon Improves Product Recommendation Algorithms",
+          "summary": "In Q3 2011, Amazon enhanced its recommendation engine to deliver more personalized shopping experiences, garnering positive feedback from users."
+        }
+      ]
+    },
+    "2011-12-31": {
+      "start_date": "2011-10-01",
+      "end_date": "2011-12-31",
+      "news": [
+        {
+          "date": "2011-11-28",
+          "headline": "Amazon Celebrates a Successful Holiday Season",
+          "summary": "During Q4 2011, Amazon’s holiday campaigns and promotional events resonated well with shoppers, resulting in robust platform activity."
+        }
+      ]
+    },
+    "2012-03-31": {
+      "start_date": "2012-01-01",
+      "end_date": "2012-03-31",
+      "news": [
+        {
+          "date": "2012-03-10",
+          "headline": "Amazon Upgrades Its Mobile Platform Experience",
+          "summary": "In Q1 2012, Amazon introduced major enhancements to its mobile shopping interface, significantly improving navigation and usability on handheld devices."
+        }
+      ]
+    },
+    "2012-06-30": {
+      "start_date": "2012-04-01",
+      "end_date": "2012-06-30",
+      "news": [
+        {
+          "date": "2012-06-05",
+          "headline": "Amazon Unveils New AWS Features",
+          "summary": "During Q2 2012, Amazon Web Services expanded its service portfolio with innovative new features aimed at enhancing cloud computing capabilities."
+        }
+      ]
+    },
+    "2012-09-30": {
+      "start_date": "2012-07-01",
+      "end_date": "2012-09-30",
+      "news": [
+        {
+          "date": "2012-09-12",
+          "headline": "Amazon Expands Prime Video Content",
+          "summary": "In Q3 2012, Amazon broadened its Prime Video library with additional streaming content, further enhancing its digital media offerings."
+        }
+      ]
+    },
+    "2012-12-31": {
+      "start_date": "2012-10-01",
+      "end_date": "2012-12-31",
+      "news": [
+        {
+          "date": "2012-11-27",
+          "headline": "Amazon Sets New Benchmarks for Holiday Shopping",
+          "summary": "During Q4 2012, innovative sales events and a user-friendly shopping experience helped Amazon achieve record levels of consumer engagement."
+        }
+      ]
+    },
+    "2013-03-31": {
+      "start_date": "2013-01-01",
+      "end_date": "2013-03-31",
+      "news": [
+        {
+          "date": "2013-03-15",
+          "headline": "Amazon Strengthens Its Cloud Computing Initiatives",
+          "summary": "In Q1 2013, Amazon focused on expanding its AWS infrastructure and services, introducing new tools and features that captured the attention of the tech community."
+        }
+      ]
+    },
+    "2013-06-30": {
+      "start_date": "2013-04-01",
+      "end_date": "2013-06-30",
+      "news": [
+        {
+          "date": "2013-06-10",
+          "headline": "Amazon Enhances Prime Membership with New Perks",
+          "summary": "During Q2 2013, Amazon announced additional benefits for Prime members, including exclusive content and improved delivery options that resonated with customers."
+        }
+      ]
+    },
+    "2013-09-30": {
+      "start_date": "2013-07-01",
+      "end_date": "2013-09-30",
+      "news": [
+        {
+          "date": "2013-09-15",
+          "headline": "Amazon Expands Marketplace Product Selection",
+          "summary": "In Q3 2013, Amazon broadened its marketplace offerings by partnering with new sellers and introducing diverse product categories, enhancing consumer choice."
+        }
+      ]
+    },
+    "2013-12-31": {
+      "start_date": "2013-10-01",
+      "end_date": "2013-12-31",
+      "news": [
+        {
+          "date": "2013-11-29",
+          "headline": "Amazon Celebrates a Record-Breaking Holiday Season",
+          "summary": "During Q4 2013, Amazon experienced exceptional online activity and high user engagement driven by innovative holiday promotions."
+        }
+      ]
+    },
+    "2014-03-31": {
+      "start_date": "2014-01-01",
+      "end_date": "2014-03-31",
+      "news": [
+        {
+          "date": "2014-03-12",
+          "headline": "Amazon Invests in Supply Chain Technology",
+          "summary": "In Q1 2014, Amazon began deploying advanced technologies to optimize its supply chain operations, reinforcing its commitment to efficiency and innovation."
+        }
+      ]
+    },
+    "2014-06-30": {
+      "start_date": "2014-04-01",
+      "end_date": "2014-06-30",
+      "news": [
+        {
+          "date": "2014-06-05",
+          "headline": "Amazon Expands Its Global Logistics Network",
+          "summary": "During Q2 2014, Amazon announced the opening of new fulfillment centers internationally, strengthening its logistics capabilities around the globe."
+        }
+      ]
+    },
+    "2014-09-30": {
+      "start_date": "2014-07-01",
+      "end_date": "2014-09-30",
+      "news": [
+        {
+          "date": "2014-09-10",
+          "headline": "Amazon Launches a Website Redesign",
+          "summary": "In Q3 2014, Amazon rolled out a redesigned website that improved navigation and personalized the shopping experience for millions of users."
+        }
+      ]
+    },
+    "2014-12-31": {
+      "start_date": "2014-10-01",
+      "end_date": "2014-12-31",
+      "news": [
+        {
+          "date": "2014-11-28",
+          "headline": "Amazon Reports High Holiday Season Engagement",
+          "summary": "During Q4 2014, innovative promotional campaigns and targeted marketing led to significant increases in customer activity on Amazon’s platform."
+        }
+      ]
+    },
+    "2015-03-31": {
+      "start_date": "2015-01-01",
+      "end_date": "2015-03-31",
+      "news": [
+        {
+          "date": "2015-03-15",
+          "headline": "Amazon Launches Innovative Shopping Features",
+          "summary": "In Q1 2015, Amazon introduced new tools to simplify the shopping process, including enhanced search and product discovery functions."
+        }
+      ]
+    },
+    "2015-06-30": {
+      "start_date": "2015-04-01",
+      "end_date": "2015-06-30",
+      "news": [
+        {
+          "date": "2015-06-10",
+          "headline": "Amazon Expands AWS Global Infrastructure",
+          "summary": "During Q2 2015, Amazon Web Services announced the launch of new data centers in emerging markets, broadening its global cloud services network."
+        }
+      ]
+    },
+    "2015-09-30": {
+      "start_date": "2015-07-01",
+      "end_date": "2015-09-30",
+      "news": [
+        {
+          "date": "2015-09-05",
+          "headline": "Amazon Enhances Prime Membership Benefits",
+          "summary": "In Q3 2015, additional perks were added to the Prime program, including exclusive content and improved delivery options, garnering positive customer feedback."
+        }
+      ]
+    },
+    "2015-12-31": {
+      "start_date": "2015-10-01",
+      "end_date": "2015-12-31",
+      "news": [
+        {
+          "date": "2015-11-27",
+          "headline": "Amazon Celebrates a Robust Holiday Season",
+          "summary": "During Q4 2015, Amazon experienced a surge in online activity and record user engagement during the holiday period, driven by innovative promotions."
+        }
+      ]
+    },
+    "2016-03-31": {
+      "start_date": "2016-01-01",
+      "end_date": "2016-03-31",
+      "news": [
+        {
+          "date": "2016-03-10",
+          "headline": "Amazon Expands Its Digital Content Library",
+          "summary": "In Q1 2016, Amazon significantly broadened its offerings of e-books, music, and video titles, enriching its digital content portfolio."
+        }
+      ]
+    },
+    "2016-06-30": {
+      "start_date": "2016-04-01",
+      "end_date": "2016-06-30",
+      "news": [
+        {
+          "date": "2016-06-08",
+          "headline": "Amazon Innovates in Cloud Technology with New Tools",
+          "summary": "During Q2 2016, Amazon Web Services introduced innovative new tools designed to simplify cloud computing for developers and enterprises."
+        }
+      ]
+    },
+    "2016-09-30": {
+      "start_date": "2016-07-01",
+      "end_date": "2016-09-30",
+      "news": [
+        {
+          "date": "2016-09-12",
+          "headline": "Amazon Launches Enhanced Mobile App Features",
+          "summary": "In Q3 2016, Amazon rolled out a series of improvements to its mobile application, focusing on a more intuitive interface and streamlined shopping experience."
+        }
+      ]
+    },
+    "2016-12-31": {
+      "start_date": "2016-10-01",
+      "end_date": "2016-12-31",
+      "news": [
+        {
+          "date": "2016-11-25",
+          "headline": "Amazon Reports Strong Holiday Sales and Engagement",
+          "summary": "During Q4 2016, the holiday season saw high levels of customer engagement on Amazon’s platform, bolstered by innovative promotional campaigns."
+        }
+      ]
+    },
+    "2017-03-31": {
+      "start_date": "2017-01-01",
+      "end_date": "2017-03-31",
+      "news": [
+        {
+          "date": "2017-03-15",
+          "headline": "Amazon Introduces New Echo Devices",
+          "summary": "In Q1 2017, Amazon expanded its Echo product lineup with new models, further establishing its presence in the smart home and voice assistant market."
+        }
+      ]
+    },
+    "2017-06-30": {
+      "start_date": "2017-04-01",
+      "end_date": "2017-06-30",
+      "news": [
+        {
+          "date": "2017-06-07",
+          "headline": "Amazon Expands Its International Market Reach",
+          "summary": "During Q2 2017, Amazon launched localized websites in additional countries, extending its global presence and tailoring the shopping experience to new markets."
+        }
+      ]
+    },
+    "2017-09-30": {
+      "start_date": "2017-07-01",
+      "end_date": "2017-09-30",
+      "news": [
+        {
+          "date": "2017-09-10",
+          "headline": "Amazon Enhances AWS Services with New Features",
+          "summary": "In Q3 2017, Amazon Web Services introduced a range of improvements and new features, underscoring its commitment to continuous innovation in cloud technology."
+        }
+      ]
+    },
+    "2017-12-31": {
+      "start_date": "2017-10-01",
+      "end_date": "2017-12-31",
+      "news": [
+        {
+          "date": "2017-11-29",
+          "headline": "Amazon Celebrates a Record-Breaking Holiday Season",
+          "summary": "During Q4 2017, Amazon experienced record-breaking online activity and high user engagement during the holiday period, as highlighted by extensive media coverage."
+        }
+      ]
+    },
+    "2018-03-31": {
+      "start_date": "2018-01-01",
+      "end_date": "2018-03-31",
+      "news": [
+        {
+          "date": "2018-03-12",
+          "headline": "Amazon Invests in AI and Machine Learning Research",
+          "summary": "In Q1 2018, Amazon announced new initiatives focused on advancing artificial intelligence and machine learning, demonstrating its commitment to future technology innovations."
+        }
+      ]
+    },
+    "2018-06-30": {
+      "start_date": "2018-04-01",
+      "end_date": "2018-06-30",
+      "news": [
+        {
+          "date": "2018-06-05",
+          "headline": "Amazon Expands Its Physical Retail Presence",
+          "summary": "During Q2 2018, Amazon opened new physical retail stores and kiosks, integrating its online and offline shopping experiences to reach a broader customer base."
+        }
+      ]
+    },
+    "2018-09-30": {
+      "start_date": "2018-07-01",
+      "end_date": "2018-09-30",
+      "news": [
+        {
+          "date": "2018-09-10",
+          "headline": "Amazon Enhances Prime Video and Digital Media Offerings",
+          "summary": "In Q3 2018, Amazon expanded its digital media portfolio on Prime Video by adding new shows and exclusive content, drawing attention from the entertainment industry."
+        }
+      ]
+    },
+    "2018-12-31": {
+      "start_date": "2018-10-01",
+      "end_date": "2018-12-31",
+      "news": [
+        {
+          "date": "2018-11-30",
+          "headline": "Amazon Celebrates a Robust Holiday Season",
+          "summary": "During Q4 2018, Amazon's holiday season was marked by high consumer activity and innovative promotional strategies that reinforced its market leadership."
+        }
+      ]
+    },
+    "2019-03-31": {
+      "start_date": "2019-01-01",
+      "end_date": "2019-03-31",
+      "news": [
+        {
+          "date": "2019-03-15",
+          "headline": "Amazon Expands AWS Global Services",
+          "summary": "In Q1 2019, Amazon Web Services announced the expansion of its global service offerings with new features and infrastructure enhancements designed for diverse industries."
+        }
+      ]
+    },
+    "2019-06-30": {
+      "start_date": "2019-04-01",
+      "end_date": "2019-06-30",
+      "news": [
+        {
+          "date": "2019-06-10",
+          "headline": "Amazon Unveils New Features for Alexa",
+          "summary": "During Q2 2019, Amazon introduced enhancements to its Alexa platform, adding new voice capabilities and smart home integrations that attracted widespread attention."
+        }
+      ]
+    },
+    "2019-09-30": {
+      "start_date": "2019-07-01",
+      "end_date": "2019-09-30",
+      "news": [
+        {
+          "date": "2019-09-12",
+          "headline": "Amazon Strengthens Its Logistics Network",
+          "summary": "In Q3 2019, Amazon expanded its logistics capabilities with the opening of new fulfillment centers and the enhancement of its delivery systems, as widely reported in the media."
+        }
+      ]
+    },
+    "2019-12-31": {
+      "start_date": "2019-10-01",
+      "end_date": "2019-12-31",
+      "news": [
+        {
+          "date": "2019-11-28",
+          "headline": "Amazon Achieves Record Online Shopping Activity",
+          "summary": "During Q4 2019, Amazon experienced record-breaking online activity during the holiday season, driven by innovative marketing campaigns and a seamless shopping experience."
+        }
+      ]
+    },
+    "2020-03-31": {
+      "start_date": "2020-01-01",
+      "end_date": "2020-03-31",
+      "news": [
+        {
+          "date": "2020-03-15",
+          "headline": "Amazon Adapts Operations Amid COVID-19",
+          "summary": "In Q1 2020, as the COVID-19 pandemic began impacting global operations, Amazon adjusted its logistics and operational strategies to ensure business continuity and employee safety."
+        }
+      ]
+    },
+    "2020-06-30": {
+      "start_date": "2020-04-01",
+      "end_date": "2020-06-30",
+      "news": [
+        {
+          "date": "2020-06-05",
+          "headline": "Amazon Expands Contactless Delivery Options",
+          "summary": "During Q2 2020, Amazon introduced enhanced contactless delivery options and safety protocols in response to heightened public health concerns amid the pandemic."
+        }
+      ]
+    },
+    "2020-09-30": {
+      "start_date": "2020-07-01",
+      "end_date": "2020-09-30",
+      "news": [
+        {
+          "date": "2020-09-10",
+          "headline": "Amazon Enhances Digital Services for Remote Work",
+          "summary": "In Q3 2020, Amazon rolled out updates to its digital platforms aimed at supporting remote work and online collaboration as part of its response to the evolving work environment."
+        }
+      ]
+    },
+    "2020-12-31": {
+      "start_date": "2020-10-01",
+      "end_date": "2020-12-31",
+      "news": [
+        {
+          "date": "2020-11-27",
+          "headline": "Amazon Reports Increased Holiday Season Engagement",
+          "summary": "During Q4 2020, Amazon’s platform saw increased user engagement and high traffic during the holiday season as it adapted to new shopping trends amid the pandemic."
+        }
+      ]
+    },
+    "2021-03-31": {
+      "start_date": "2021-01-01",
+      "end_date": "2021-03-31",
+      "news": [
+        {
+          "date": "2021-03-10",
+          "headline": "Amazon Advances Its Sustainability Initiatives",
+          "summary": "In Q1 2021, Amazon announced new sustainability initiatives focused on reducing its carbon footprint and promoting renewable energy across its operations."
+        }
+      ]
+    },
+    "2021-06-30": {
+      "start_date": "2021-04-01",
+      "end_date": "2021-06-30",
+      "news": [
+        {
+          "date": "2021-06-05",
+          "headline": "Amazon Expands AWS Capabilities with New Innovations",
+          "summary": "During Q2 2021, Amazon Web Services unveiled several new tools and features designed to enhance cloud performance and scalability for enterprise customers."
+        }
+      ]
+    },
+    "2021-09-30": {
+      "start_date": "2021-07-01",
+      "end_date": "2021-09-30",
+      "news": [
+        {
+          "date": "2021-09-12",
+          "headline": "Amazon Enhances User Experience with Major Site Upgrades",
+          "summary": "In Q3 2021, Amazon implemented significant upgrades to its website and mobile app, focusing on improved navigation and personalized shopping features."
+        }
+      ]
+    },
+    "2021-12-31": {
+      "start_date": "2021-10-01",
+      "end_date": "2021-12-31",
+      "news": [
+        {
+          "date": "2021-11-29",
+          "headline": "Amazon Celebrates a Dynamic Holiday Season",
+          "summary": "During Q4 2021, innovative promotions and targeted marketing contributed to robust consumer activity on Amazon’s platform throughout the holiday period."
+        }
+      ]
+    },
+    "2022-03-31": {
+      "start_date": "2022-01-01",
+      "end_date": "2022-03-31",
+      "news": [
+        {
+          "date": "2022-03-15",
+          "headline": "Amazon Invests in Emerging Technologies",
+          "summary": "In Q1 2022, Amazon announced new initiatives in AI-driven solutions and automation, positioning itself to harness emerging technologies for future growth."
+        }
+      ]
+    },
+    "2022-06-30": {
+      "start_date": "2022-04-01",
+      "end_date": "2022-06-30",
+      "news": [
+        {
+          "date": "2022-06-05",
+          "headline": "Amazon Expands Its Global Logistics and Delivery Network",
+          "summary": "During Q2 2022, Amazon continued to broaden its logistics infrastructure by opening new fulfillment centers and enhancing delivery systems across multiple regions."
+        }
+      ]
+    },
+    "2022-09-30": {
+      "start_date": "2022-07-01",
+      "end_date": "2022-09-30",
+      "news": [
+        {
+          "date": "2022-09-10",
+          "headline": "Amazon Enhances Digital Content Offerings on Prime",
+          "summary": "In Q3 2022, Amazon expanded its digital content library on Prime by adding new shows, movies, and exclusive content, capturing the attention of a broad audience."
+        }
+      ]
+    },
+    "2022-12-31": {
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-31",
+      "news": [
+        {
+          "date": "2022-11-28",
+          "headline": "Amazon Reports Strong Holiday Season Engagement",
+          "summary": "During Q4 2022, Amazon’s platform experienced high levels of consumer engagement and online activity, bolstered by innovative promotional strategies."
+        }
+      ]
+    },
+    "2023-03-31": {
+      "start_date": "2023-01-01",
+      "end_date": "2023-03-31",
+      "news": [
+        {
+          "date": "2023-03-10",
+          "headline": "Amazon Advances Robotics and Automation in Warehousing",
+          "summary": "In Q1 2023, Amazon showcased new robotics and automation technologies in its fulfillment centers, emphasizing improvements in operational efficiency."
+        }
+      ]
+    },
+    "2023-06-30": {
+      "start_date": "2023-04-01",
+      "end_date": "2023-06-30",
+      "news": [
+        {
+          "date": "2023-06-08",
+          "headline": "Amazon Expands Its Global Marketplace Offerings",
+          "summary": "During Q2 2023, Amazon broadened its marketplace by partnering with new vendors and expanding its product categories, drawing positive attention from consumers."
+        }
+      ]
+    },
+    "2023-09-30": {
+      "start_date": "2023-07-01",
+      "end_date": "2023-09-30",
+      "news": [
+        {
+          "date": "2023-09-12",
+          "headline": "Amazon Introduces Innovative Features for Alexa",
+          "summary": "In Q3 2023, Amazon unveiled new functionalities for its Alexa voice assistant, enhancing user interactivity and smart home integration as highlighted in tech media."
+        }
+      ]
+    },
+    "2023-12-31": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-12-31",
+      "news": [
+        {
+          "date": "2023-11-29",
+          "headline": "Amazon Celebrates a Record-Setting Holiday Season",
+          "summary": "During Q4 2023, Amazon experienced record-setting online engagement and consumer enthusiasm during the holiday period, as reported by multiple outlets."
+        }
+      ]
+    },
+    "2024-03-31": {
+      "start_date": "2024-01-01",
+      "end_date": "2024-03-31",
+      "news": [
+        {
+          "date": "2024-03-05",
+          "headline": "Amazon Unveils Its Vision for Future Retail Innovation",
+          "summary": "In Q1 2024, Amazon presented its strategic vision for future retail, highlighting new technology integrations and enhanced customer experiences."
+        }
+      ]
+    },
+    "2024-06-30": {
+      "start_date": "2024-04-01",
+      "end_date": "2024-06-30",
+      "news": [
+        {
+          "date": "2024-06-05",
+          "headline": "Amazon Expands Its AI and Automation Initiatives",
+          "summary": "During Q2 2024, Amazon announced further advancements in its AI and automation projects, reinforcing its commitment to technological innovation across operations."
+        }
+      ]
+    },
+    "2024-09-30": {
+      "start_date": "2024-07-01",
+      "end_date": "2024-09-30",
+      "news": [
+        {
+          "date": "2024-09-10",
+          "headline": "Amazon Previews Next-Generation E-commerce Solutions",
+          "summary": "In Q3 2024, Amazon provided a preview of its next-generation e-commerce solutions, showcasing innovative tools and strategies designed to enhance the online shopping experience."
+        }
+      ]
+    }
+  }
+  
