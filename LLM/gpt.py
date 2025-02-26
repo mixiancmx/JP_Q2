@@ -7,8 +7,8 @@ from openai import OpenAI
 class GPT_agent:
     def __init__(self):
         self.client = OpenAI(
-            api_key="sk-QpHUrsblHgB7kAzcpwLmrFz3yKKTiFVlFOW2vgVc7ARfqsXR",
-            base_url="https://a.fe8.cn/v1",
+            api_key="", #enter yours
+            base_url="",
         )
 
     def ask_text(self, question):
