@@ -31,7 +31,7 @@ input_channels = 3
 epochs = 50
 
 # Load and sort data
-file_path = "/Users/mixian/Downloads/Q2/apple_quarterly_balance_sheet.csv"
+file_path = "./data/apple_quarterly_balance_sheet.csv"
 data = pd.read_csv(file_path)
 data.sort_values(by='fiscalDateEnding', inplace=True)
 

@@ -35,8 +35,6 @@ columns_to_use = ['totalShareholderEquity', 'totalAssets', 'totalLiabilities']
 data[columns_to_use] = data[columns_to_use].apply(pd.to_numeric, errors='coerce')
 data = data.dropna(subset=columns_to_use)
 data_values = data[columns_to_use].values
-history_news = news[:history_size]
-test_news = news[history_size:]
 
 # Generate sequential data
 def generate_data(data, seq_len, pred_len):
