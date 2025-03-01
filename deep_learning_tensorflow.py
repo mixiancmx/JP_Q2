@@ -11,6 +11,7 @@ class Model(tf.keras.Model):
 
     def call(self, x):
         # x: [Batch, Input length, Channel]
+        x = tf.cast(x, tf.float32)
         seq_last = x[:, -1:, :]  # Extract the last time step
         x = x - seq_last  # Normalize by the last time step
         x = tf.transpose(x, perm=[0, 2, 1])  # [Batch, Channel, Input length]
